@@ -1,12 +1,11 @@
-# Assignment4
+# Readme file
+# Git Commands used -
+1) 'git init' : Intialize a new git repository.
+2) 'git add' : Stages changes,allowing you to prepare files for the next commit.
+3) 'git commit ': Records the staged changes with a message, creating a new snapshot.
+4) 'git push ': Uploads your local commits to a remote repository.
 
-Git Commands used -
-'git init' : Intialize a new git repository.
-'git add' : Stages changes,allowing you to prepare files for the next commit.
-'git commit ': Records the staged changes with a message, creating a new snapshot.
-'git push ': Uploads your local commits to a remote repository.
-
-Makefile -
+# Makefile -
 Makefile is a script used to automate the build process of a program.
 
 target: Q3.cpp Q4.cpp This line indicates that target depends on the source files 'Q3.cpp' and 'Q4.cpp'.
